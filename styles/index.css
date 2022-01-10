@@ -1,0 +1,302 @@
+.LSB{
+    height: 99vh;
+    float: left;
+    width:25%;
+}
+
+#brandPic{
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 15vh;
+}
+
+#brandWelcoming1{
+    font-size: 3vh;
+    font-weight: 1000;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+#brandWelcoming2{
+    font-size: 3vh;
+    font-weight: 1000;
+    margin-left: 27%;
+    margin-top: 2%;
+}
+
+#distinctionLine{
+    margin-left: 6%;
+    margin-top: 5%;
+    color: grey;
+}
+
+.outerObjects{
+    margin-left: 15%;
+    font-size: 2vh;
+    font-weight: 1000;
+    margin-top: 5%;
+}
+
+.fa-chevron-down:before {
+    content: "\f078";
+    margin-left: 15vh;
+}
+
+.objects{
+    margin-left: 15%;
+    font-size: 1.7vh;
+    margin-top: 5%;
+}
+
+.footer{
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.MP{
+    background-color:#e5e1f5;
+    height: 124vh;
+    float: left;
+    width: 50%;
+}
+
+#packages{
+    margin-left: 6%;
+    margin-top: 2%;
+    font-weight: 700;
+}
+
+.containerClassMP{
+    display: flex;
+    position: relative;
+    background-color: white;
+    margin-left: 6%;
+    margin-right: 2%;
+    margin-top: 5%;
+    border-radius: 1vh;
+    padding: 4vh;
+}
+
+.foodItemImg{
+    width: 20vh;
+    border-radius: 2vh;
+}
+
+.foodItemName{
+    font-size: 3vh;
+    font-weight: 1000;
+    margin-left: 3%;
+}
+
+.foodItemDescr{
+    position: absolute;
+    font-size: 2vh;
+    margin-top: 5%;
+    margin-left: 24.5%;
+}
+
+.foodItemDescr2{
+    position: absolute;
+    font-size: 2vh;
+    margin-top: 8%;
+    margin-left: 24.5%;
+}
+
+.unknownIcon1{
+    color: blue;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 24.5%;
+}
+
+.unknownIcon2{
+    color: blue;
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 28.5%;
+}
+
+.shoppingBag{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 25%;
+    width: 5vh;
+}
+
+.shoppingBagBagel{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 42%;
+    width: 5vh;
+}
+
+.reqQuantity{
+    font-weight: 700;
+    font-size: 2.5vh;
+    background-color: white;
+    position: absolute;
+    margin-left: 67%;
+    margin-top: 13%;
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
+
+.perPerson{
+    position: absolute;
+    font-size: 1.5vh;
+    margin-top: 2.5%;
+    margin-left: 79%;
+}
+
+.itemPrice{
+    position: absolute;
+    font-weight: 1000;
+    font-size: 2vh;
+    margin-left: 79%;
+}
+
+.RSB{
+    height: 99vh;
+    float: left;
+    width: 25%;
+}
+
+.userName{
+    margin-top: 5%;
+    font-size: 4vh;
+    font-weight: 1000;
+    margin-left: 6%;
+}
+
+#userPic{
+    width: 8vh;
+    margin-left: 20%;
+}
+
+#myOrder{
+    font-size: 3vh;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+
+#delivery{
+    font-size: 2vh;
+    margin-left: 6%;
+    margin-top: 8%;
+}
+
+#date{
+    margin-left: 6%;
+    margin-top: 1%;
+    width: 43vh;
+    padding: 1.4vh;
+}
+
+.containerClass{
+    display: flex;
+    position: relative;
+    background-color: #e5e1f5;
+    margin-left: 6%;
+    margin-right: 2%;
+    margin-top: 5%;
+    border-radius: 1vh;
+    padding: 1.5vh;
+}
+
+.foodItemBoughtImg{
+    width: 12vh;
+    border-radius: 1vh;
+}
+
+
+.foodItemBoughtName{
+    font-size: 2vh;
+    margin-left: 3%;
+}
+
+.foodItemBoughtDescr{
+    position: absolute;
+    margin-left: 29%;
+    margin-top: 7%;
+    font-size: 1.3vh;
+}
+
+.cartQuantity{
+    font-weight: 500;
+    background-color: white;
+    position: absolute;
+    margin-left: 29%;
+    margin-top: 12%;
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
+
+.itemBoughtPrice{
+    position: absolute;
+    font-weight: 1000;
+    margin-left: 79%;
+}
+
+.fa-trash-alt{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 14%;
+}
+
+#deleteFood3{
+    margin-left: 25%;
+}
+
+.Container{
+    position: relative;
+    margin-left: 6%;
+    margin-top: 5%;
+    font-weight: 700;
+}
+
+#subtotal{
+    margin-top: 2%;
+}
+
+#taxes{
+    margin-top: 2%;
+}
+
+#deliveryPrice{
+    margin-top: 2%;
+}
+
+#subTotalPrice{
+    position: absolute;
+    margin-left: 79%;
+    margin-top: 1%;
+}
+
+#taxPrice{
+    position: absolute;
+    margin-left: 79%;
+    margin-top: 2%;
+}
+
+#deliveryPrices{
+    position: absolute;
+    margin-left: 79%;
+    margin-top: 2%;
+}
+
+#total{
+    margin-top: 5%;
+    font-size: 2vh;
+}
+
+#totalPrice{
+    position: absolute;
+    margin-left: 79%;
+    margin-top: 5%;
+}
+
+.btn-dark{
+    margin-left: 3%;
+    margin-top: 5%;
+    width: 47vh;
+}
